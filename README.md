@@ -11,3 +11,5 @@ I have modified it as follows:
   The 3D print information and a video can be found at <https://github.com/leonvandenbeukel/7-Segment-Digital-Clock-V2>
 
   The code can be found in the code section of this repository.
+
+  To be able to connect to the WiFi, you have to modify Credentials.h with your Wifi SID name and password.
